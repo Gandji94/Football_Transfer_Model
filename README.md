@@ -5,6 +5,6 @@ In the following project I have created a model that allows us to predict the tr
 - Training & testing the model
 - Building the final model
 
-The data was collected from TransferMarket.com (transfer fees) and FBREF.com (player statistics). We used the data to create data frames that were used for exploratory analysis and to train & test various machine learning models.
+The data was collected from TransferMarket.com (transfer fees) (https://www.transfermarkt.com/) and FBREF.com (player statistics) (https://fbref.com/en/). We used the data to create data frames that were used for exploratory analysis and to train & test various machine learning models.
 
 The final model allows us to predict the potential transfer fees of footballers with relatively good accuracy.
