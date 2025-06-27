@@ -9,3 +9,4 @@ The data was collected from TransferMarket.com (transfer fees) (https://www.tran
 - 
 
 The final model allows us to predict the potential transfer fees of footballers with good accuracy.
+Updated: 27.06.2025
